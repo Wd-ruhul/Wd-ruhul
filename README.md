@@ -1,6 +1,7 @@
+(https://media.licdn.com/dms/image/D4E16AQFI8MysY_IHRA/profile-displaybackgroundimage-shrink_350_1400/0/1670506889843?e=1686182400&v=beta&t=zsZAvNE-xCmMxtOsI35s359chjCRe9rPiDtzBMnkv2s)
 ### Hi there 👋, I'm Ruhul Amin
 #### Front-End Developer || MERN-STACK Developer || React JS || Node JS || JavaScript Developer
-![Front-End Developer || MERN-STACK Developer || React JS || Node JS || JavaScript Developer](https://media.licdn.com/dms/image/D4E16AQFI8MysY_IHRA/profile-displaybackgroundimage-shrink_350_1400/0/1670506889843?e=1686182400&v=beta&t=zsZAvNE-xCmMxtOsI35s359chjCRe9rPiDtzBMnkv2s)
+![Front-End Developer || MERN-STACK Developer || React JS || Node JS || JavaScript Developer]
 
 An enthusiastic software developer passionate about web development & loves to learn new things in Web development. Highly motivated and experienced JavaScript MERN-STACK developer with 1+ years of experience in the field. Able to play a key role throughout the development of a site to ensure maximum accessibility, better user experience, and usability.
 
